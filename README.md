@@ -1,6 +1,6 @@
-# cntlm Docker
+# Cntlm Docker
 
-cntlm in a Docker image. Runs on Alpine Linux with the [Alpine cntlm community package](https://pkgs.alpinelinux.org/package/edge/community/x86/cntlm).
+Cntlm in a Docker image.
 
 To build the image, run `docker build -t leonseng/cntlm:latest .`.
 
